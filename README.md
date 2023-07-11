@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./![image](https://github.com/Faith-okereke/Rating/assets/104175649/49361193-2be3-4191-9b1e-598320583bf3)
-)
+![image](https://github.com/Faith-okereke/Rating/assets/104175649/218cbb8c-0b6b-4912-be8b-8171924177c6)
+
 
 ### Links
 
