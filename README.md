@@ -24,9 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot.png)
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![](./![image](https://github.com/Faith-okereke/Rating/assets/104175649/49361193-2be3-4191-9b1e-598320583bf3)
+)
 
 ### Links
 
