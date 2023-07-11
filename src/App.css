@@ -1,0 +1,105 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    display: grid;
+    place-items: center;
+    background-color: hsl(213, 19%, 18%);
+    padding: 20px;
+    width: fit-content;
+    margin: 30px auto;
+    border-radius: 20px;
+}
+.star{
+    border-radius: 50%;
+    background-color: hsl(215, 10%, 23%);
+    object-fit: contain;
+    padding: 8px;
+    margin-bottom: 20px;
+}
+.writing h1{
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+.writing p{
+    width: 280px;
+    font-size: 12px;
+    line-height: 1.5rem;
+    color:  hsl(217, 12%, 63%);
+}
+.number{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-block: 15px;
+}
+.number button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background-color: hsl(215, 10%, 23%);
+    padding: 15px;
+    object-fit: contain;
+    width: 16%;
+    color: hsl(217, 12%, 63%);
+    cursor: pointer;
+    font-size: 14px;
+  }
+.number button:active,
+.number button:focus {
+  background-color: hsl(0, 0%, 40%);
+  color: hsl(0, 0%, 100%);
+}
+.number button:hover {
+  background-color: hsl(25, 97%, 53%);
+  color: #fff;
+}
+button{
+    background-color: hsl(25, 97%, 53%);
+    border: 0;
+    border-radius: 20px;
+    width: 100%;
+    padding: 10px;
+    text-transform: uppercase;
+    color: hsl(0, 0%, 100%);
+    cursor: pointer;
+    font-size: 12px;
+    letter-spacing: 0.1rem;
+}
+button:hover, button:active, button:focus{
+    background-color: #fff;
+    color: hsl(25, 97%, 53%);
+}
+.Thankyou{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-block: 20px;
+}
+.Thankyou img{
+    width: 130px;
+}
+.select{
+    color: hsl(25, 97%, 53%);
+    background-color: hsl(220, 5%, 24%);
+    border-radius: 15px;
+    height: auto;
+    padding: 6px;
+    padding-inline: 10px;
+    width: auto;
+    font-size: 12px;
+    margin: 10px;
+}
+.appreciate{
+    font-size: 13px;
+    color: hsl(217, 12%, 63%);
+    line-height: 1.2rem;
+    padding-top: 10px;
+    
+}
